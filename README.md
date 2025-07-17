@@ -95,7 +95,7 @@ python -m textblob.download_corpora
 
 1. Clone or download the repository:
 ```bash
-git clone https://github.com/yourusername/nlp-lab-manual.git
+https://github.com/GadiyamulaHarshavardhan/NLP_Manual.git
 ```
 
 2. Navigate to the experiment folder:
